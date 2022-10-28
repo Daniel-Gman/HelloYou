@@ -5,7 +5,6 @@ def printsleep(sleeptime, txt):
 
 print("Gemaakt door Daniel Vermeulen")
 
-
 printsleep(1.5, "Je bent op een feestje met vrienden en er is veel drank aanwezig")
 printsleep(1.5, "het er staat een hoop drank op tafel, je twijfelt of je meer wilt drinken")
 printsleep(1.5, "wat doe je?")
